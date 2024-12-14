@@ -7,8 +7,7 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    font-style: normal;
-    color: rgb(48, 48, 48);
+    color: #303030;
 }
 
 header {
@@ -27,7 +26,7 @@ header span {
 .main-section {
     /* Стили для первой секции */
     background-color: #fafaff;
-    padding: 60px, 0px;
+    padding: 60px 0px;
     height: 100%;
 }
 
@@ -53,7 +52,7 @@ header span {
 .about-section {
     /* Стили для второй секции */
     background-color: #fff;
-    padding: 100px, 0;
+    padding: 100px 0px;
     border: 1px solid rgba(48, 48, 48, 0.3);
     border-radius: 5px;
     width: 150px;
